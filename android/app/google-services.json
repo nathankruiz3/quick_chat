@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284417404190",
+    "firebase_url": "https://quick-chat-d4f2b.firebaseio.com",
+    "project_id": "quick-chat-d4f2b",
+    "storage_bucket": "quick-chat-d4f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284417404190:android:1a1c8e3496cbc2fa81ad0f",
+        "android_client_info": {
+          "package_name": "com.nathankruiz.flutter.quick_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284417404190-k9lq2c8q9v7boehi7e0afd0lmu0mq8f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfRjiTYPPPAoWUhP11rPgJj_2zC-loFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284417404190-k9lq2c8q9v7boehi7e0afd0lmu0mq8f7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284417404190-1ngikk41rc6lojr0v9g4klp5i1bs5u9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nathankruiz.flutter.quickChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
